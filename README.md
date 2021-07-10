@@ -1,1 +1,1 @@
-# B-zier-Curve
+# Bézier-Curve
